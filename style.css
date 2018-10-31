@@ -1,0 +1,24 @@
+body{
+	margin-left: 250px;
+	margin-right: 250px;
+
+}
+header{
+    text-align: center;
+}
+.img_1{
+    float: left;
+}
+div{
+    text-align: center;
+}
+.heading{
+    font-style: italic;
+}
+.central_italics{
+    font-style: italic;
+    text-align: center;
+}
+.text_right{
+    text-align: right;
+}
